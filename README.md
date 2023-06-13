@@ -1,11 +1,10 @@
-# power-outage-predictions
 ### By: Jerry Wu and Ryan Doh
-# Introduction
+# Framing the Problem
 
-# Cleaning and Exploratory Data Analysis
+# Baseline Model
                                                    
 
-# Assessment of Missingness
+# Final Model
 
 
-# Hypothesis Testing
+# Fairness Analysis
